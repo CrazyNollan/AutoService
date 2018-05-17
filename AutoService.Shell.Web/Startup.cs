@@ -11,7 +11,6 @@ namespace AutoService.Shell.Web
 
         public Startup(IConfiguration configuration)
         {
-            int s = 5;
             Configuration = configuration;
         }       
 
